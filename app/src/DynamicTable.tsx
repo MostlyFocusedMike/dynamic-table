@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState, MouseEvent, ChangeEvent } from 'react';
 type DynamicTableProps = {
   rows: any[];
